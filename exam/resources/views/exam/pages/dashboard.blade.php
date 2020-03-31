@@ -33,11 +33,13 @@
                             <th>Balance</th>
                         </tr>
                         @foreach($accounts as $account)
-                            <tr>
-                                <td>{{$account->account_nr}}</td>
-                                <td>{{$account->balance}}</td>
+                            @can('home', $account)
+                                <tr>
+                                    <td>{{$account->account_nr}}</td>
+                                    <td>{{$account->balance}}</td>
 
-                            </tr>
+                                </tr>
+                            @endcan
                         @endforeach
                     </table>
                 </div>

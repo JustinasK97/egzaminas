@@ -19,5 +19,8 @@ Route::get('/', function () {
 
 Auth::routes();
 
-Route::get('/home', 'HomeController@index')->name('home');
-Route::get('/createAccount', 'RegisterController@FirstAccount');
+Route::get('/', 'HomeController@index');
+Route::get('/home/', 'AccountsController@createAccount');
+Route::get('/summary/', 'AccountsController@summary');
+Route::get('/newtransfer/', 'OperationsController@newTransfer');
+Route::get('/transfers/', 'OperationController@transfers');
