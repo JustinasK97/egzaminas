@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="baf9c703-75ec-4c72-a0ac-82940cc1e7dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/db/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/db/vendor/composer" />
+      <path value="$PROJECT_DIR$/db/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/db/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/db/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/db/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/db/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/db/vendor/google/recaptcha" />
+      <path value="$PROJECT_DIR$/db/vendor/dasprid/enum" />
+      <path value="$PROJECT_DIR$/db/vendor/samyoul/u2f-php-server" />
+      <path value="$PROJECT_DIR$/db/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/db/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/db/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/db/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/db/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/db/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/db/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/db/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/db/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/db/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/db/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/db/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/db/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/db/vendor/pragmarx/google2fa" />
+      <path value="$PROJECT_DIR$/db/vendor/pragmarx/google2fa-qrcode" />
+      <path value="$PROJECT_DIR$/db/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/db/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/db/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/db/vendor/phpmyadmin/motranslator" />
+      <path value="$PROJECT_DIR$/db/vendor/phpmyadmin/shapefile" />
+      <path value="$PROJECT_DIR$/db/vendor/phpmyadmin/sql-parser" />
+      <path value="$PROJECT_DIR$/db/vendor/phpmyadmin/twig-i18n-extension" />
+      <path value="$PROJECT_DIR$/db/vendor/tecnickcom/tcpdf" />
+      <path value="$PROJECT_DIR$/db/vendor/williamdes/mariadb-mysql-kbs" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1ZssvsbhsGkut2KY1rIlVR5hiFS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\37067\code\exam\public\css" />
+      <recent name="C:\Users\37067\code\exam\public\js" />
+      <recent name="C:\Users\37067\code\exam\assets" />
+      <recent name="C:\Users\37067\code\exam\public" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="baf9c703-75ec-4c72-a0ac-82940cc1e7dc" name="Default Changelist" comment="" />
+      <created>1585639377228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585639377228</updated>
+      <workItem from="1585639401972" duration="1961000" />
+      <workItem from="1585647614196" duration="10722000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="295" key="NewPhpFileDialog" timestamp="1585657387879">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="295" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1585657387879" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1585647716644">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585647716644" />
+    <state x="20" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585653437730">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="20" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585653437730" />
+  </component>
+</project>
